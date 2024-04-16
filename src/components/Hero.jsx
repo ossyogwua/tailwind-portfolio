@@ -2,7 +2,6 @@
 import React from "react";
 import heroimage from "../assets/assets/profilepic7.jpg";
 import { TypeAnimation } from "react-type-animation";
-import CV from "../assets/assets/cv.pdf";
 
 const Hero = () => {
   return (
@@ -45,7 +44,7 @@ const Hero = () => {
 
         <div className="my-8">
           <a
-            href="CV"
+            href="cv.pdf"
             className="px-6 py-3 w-full rounded-xl mr-4
                   bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
