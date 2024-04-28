@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/tailwind-portfolio/static/css/main.2a7ec6c6.css",
-    "main.js": "/tailwind-portfolio/static/js/main.b7f6e228.js",
+    "main.css": "/tailwind-portfolio/static/css/main.23f16c56.css",
+    "main.js": "/tailwind-portfolio/static/js/main.356aae1c.js",
     "static/media/proj6.mp4": "/tailwind-portfolio/static/media/proj6.67e6c0e40635d2b6053c.mp4",
-    "static/media/about.jpg": "/tailwind-portfolio/static/media/about.cfefbecf8a0050813070.jpg",
+    "static/media/about.jpg": "/tailwind-portfolio/static/media/about.55d0e98c709204a25220.jpg",
+    "static/media/resume.pdf": "/tailwind-portfolio/static/media/resume.ceaaf1c25d9fcf7228dc.pdf",
     "static/media/profilepic7.jpg": "/tailwind-portfolio/static/media/profilepic7.8f8818b6d61883e40e67.jpg",
     "static/media/proj2.png": "/tailwind-portfolio/static/media/proj2.b7dbb45c58573831cda2.png",
     "static/media/proj1.png": "/tailwind-portfolio/static/media/proj1.85dba8c879f340775ac9.png",
     "static/media/proj3.png": "/tailwind-portfolio/static/media/proj3.c94d1561f3d09069a4f1.png",
     "static/media/proj5.png": "/tailwind-portfolio/static/media/proj5.e37b4242b7235f2f3d85.png",
     "static/media/proj4.png": "/tailwind-portfolio/static/media/proj4.4edd51a5442886536e46.png",
-    "static/media/github.svg": "/tailwind-portfolio/static/media/github.435197e7d62d84851b03f272e720dbcf.svg",
-    "static/media/medium.svg": "/tailwind-portfolio/static/media/medium.4dd0d77ee73f84104df6cc744f861f72.svg",
     "static/media/twitter.svg": "/tailwind-portfolio/static/media/twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
     "index.html": "/tailwind-portfolio/index.html",
     "static/media/linkedin.svg": "/tailwind-portfolio/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "static/media/facebook.svg": "/tailwind-portfolio/static/media/facebook.22d5e33c85b7691bd69150ce20e2d12b.svg",
-    "main.2a7ec6c6.css.map": "/tailwind-portfolio/static/css/main.2a7ec6c6.css.map",
-    "main.b7f6e228.js.map": "/tailwind-portfolio/static/js/main.b7f6e228.js.map"
+    "main.23f16c56.css.map": "/tailwind-portfolio/static/css/main.23f16c56.css.map",
+    "main.356aae1c.js.map": "/tailwind-portfolio/static/js/main.356aae1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a7ec6c6.css",
-    "static/js/main.b7f6e228.js"
+    "static/css/main.23f16c56.css",
+    "static/js/main.356aae1c.js"
   ]
 }
