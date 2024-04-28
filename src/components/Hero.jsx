@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import heroimage from "../assets/assets/profilepic7.jpg";
+import resumeURL from "../assets/assets/resume.pdf";
 import { TypeAnimation } from "react-type-animation";
 
 const Hero = () => {
@@ -44,7 +45,9 @@ const Hero = () => {
 
         <div className="my-8">
           <a
-            href="cv.pdf"
+            href={resumeURL}
+            target="_blank"
+            rel="noreferrer"
             className="px-6 py-3 w-full rounded-xl mr-4
                   bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >

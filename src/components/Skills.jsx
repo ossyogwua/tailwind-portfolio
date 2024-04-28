@@ -7,7 +7,7 @@ import reactjs from "../assets/assets/react.png";
 import express from "../assets/assets/express.png";
 import Nodejs from "../assets/assets/nodejs.png";
 import bootstrap from "../assets/assets/bootstrap.png";
-import reactnative from "../assets/assets/reactnative.png";
+import reactnative from "../assets/assets/react.png";
 import jquery from "../assets/assets/jquery.png";
 import mongodb from "../assets/assets/mongodb.png";
 import sql from "../assets/assets/sql.png";
@@ -18,7 +18,7 @@ import firebase from "../assets/assets/firebase.png";
 const Skills = () => {
   return (
     <div
-      className="border border-gray-600 bg-black-300 text-gray-400md:h-[150px] max-w-[1400px] mx-auto grid grid-cols-3
+      className="border border-gray-600 bg-black-300 mt-32 text-gray-400 md:h-[150px] max-w-[1400px] mx-auto grid grid-cols-3
        place-items-center md:flex md:justify-between md:items-center"
     >
       <h2 className="text-gray-700 text-2xl md:text-4xl font-bold m-4">
@@ -26,6 +26,7 @@ const Skills = () => {
       </h2>
 
       <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md:w-[1000px]">
+        <nav></nav>
         <img src={html} alt="" />
         <p className="mt-2">HTML</p>
       </div>
@@ -37,12 +38,12 @@ const Skills = () => {
 
       <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md:w-[1000px]">
         <img src={javascript} alt="" />
-        <p className="mt-2">JavasScript</p>
+        <p className="mt-2">JavaScript</p>
       </div>
 
       <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md:w-[1000px]">
         <img src={reactjs} alt="" />
-        <p className="mt-2"></p>
+        <p className="mt-2">React</p>
       </div>
 
       <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md:w-[1000px]">
@@ -71,7 +72,7 @@ const Skills = () => {
       </div>
 
       <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md:w-[1000px]">
-        <img src={jquery} alt="" />
+        <img src={jquery} alt="" className="bg-white" />
         <p className="mt-2">JQuery</p>
       </div>
 
