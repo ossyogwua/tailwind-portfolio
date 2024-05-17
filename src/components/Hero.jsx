@@ -30,10 +30,10 @@ const Hero = () => {
         </hi>
 
         <p className="text-white sm:text-lg my-6 lg:text-xl">
-          My name is Osinachi Ogwua. I am a <span>web</span> a full stack web
-          developer from Niebüll Germany with an excellent teamwork and customer
-          service skills. Over the past 10 months, I've built three websites
-          from scratch including my portfolio website with React, Node.js and
+          My name is Osinachi Ogwua. I am a full stack web developer from
+          Niebüll Germany with an excellent teamwork and customer service
+          skills. Over the past 10 months, I've built three websites from
+          scratch including my portfolio website with React, Node.js and
           Express, React, Bootstrap, jQuery ReactDom, JavaScript. My greatest
           goal is an opportunity to explore and pursue a new career in the tech
           industry, where I can exhibit my new knowledge and my teamwork,
