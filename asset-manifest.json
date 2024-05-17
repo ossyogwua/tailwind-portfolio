@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tailwind-portfolio/static/css/main.23f16c56.css",
-    "main.js": "/tailwind-portfolio/static/js/main.9378579a.js",
+    "main.css": "/tailwind-portfolio/static/css/main.9d241abf.css",
+    "main.js": "/tailwind-portfolio/static/js/main.10a4dc68.js",
     "static/media/proj6.mp4": "/tailwind-portfolio/static/media/proj6.67e6c0e40635d2b6053c.mp4",
     "static/media/about.jpg": "/tailwind-portfolio/static/media/about.55d0e98c709204a25220.jpg",
     "static/media/resume.pdf": "/tailwind-portfolio/static/media/resume.2cfbb8b7f22e9799c4fe.pdf",
@@ -15,11 +15,11 @@
     "index.html": "/tailwind-portfolio/index.html",
     "static/media/linkedin.svg": "/tailwind-portfolio/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "static/media/facebook.svg": "/tailwind-portfolio/static/media/facebook.22d5e33c85b7691bd69150ce20e2d12b.svg",
-    "main.23f16c56.css.map": "/tailwind-portfolio/static/css/main.23f16c56.css.map",
-    "main.9378579a.js.map": "/tailwind-portfolio/static/js/main.9378579a.js.map"
+    "main.9d241abf.css.map": "/tailwind-portfolio/static/css/main.9d241abf.css.map",
+    "main.10a4dc68.js.map": "/tailwind-portfolio/static/js/main.10a4dc68.js.map"
   },
   "entrypoints": [
-    "static/css/main.23f16c56.css",
-    "static/js/main.9378579a.js"
+    "static/css/main.9d241abf.css",
+    "static/js/main.10a4dc68.js"
   ]
 }
