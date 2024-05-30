@@ -3,7 +3,6 @@ import React from "react";
 import heroimage from "../assets/assets/profilepic7.jpg";
 import resumeURL from "../assets/assets/resume.pdf";
 import { TypeAnimation } from "react-type-animation";
-import Contact from "contact.jsx";
 
 const Hero = () => {
   return (
@@ -55,12 +54,12 @@ const Hero = () => {
             Download cv
           </a>
           <a
-            href={Contact}
+            href="#contact"
             className="px-6 py-3 w-full rounded-xl
                   border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
                   text-white hover:border-none"
           >
-            Contact Me
+            Contact
           </a>
           <a
             href="https://linkedin.com/in/osinachi-ogwua-03794020a/"
