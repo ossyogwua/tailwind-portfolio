@@ -3,6 +3,7 @@ import React from "react";
 import heroimage from "../assets/assets/profilepic7.jpg";
 import resumeURL from "../assets/assets/resume.pdf";
 import { TypeAnimation } from "react-type-animation";
+import Contact from "contact.jsx";
 
 const Hero = () => {
   return (
@@ -31,16 +32,16 @@ const Hero = () => {
 
         <p className="text-white sm:text-lg my-6 lg:text-xl">
           My name is Osinachi Ogwua. I am a full stack web developer from
-          Niebüll Germany with an excellent teamwork and customer service
-          skills. Over the past 10 months, I've built three websites from
-          scratch including my portfolio website with React, Node.js and
-          Express, React, Bootstrap, jQuery ReactDom, JavaScript. My greatest
-          goal is an opportunity to explore and pursue a new career in the tech
-          industry, where I can exhibit my new knowledge and my teamwork,
-          brainstorming and problem-solving skills. With the experiences from my
-          previous jobs as cabin crew and caregiver where I have exhibited high
-          level of compassion, empathy, detail oriented and exceeding target to
-          be an added advantage to my new career as a wed developer..
+          Niebüll Germany with excellent teamwork and customer service skill.
+          Over the past 10 months, I've built three websites from scratch
+          including my portfolio website with React, Node.js and Express, React,
+          Bootstrap, jQuery ReactDom, JavaScript. My greatest goal is an
+          opportunity to explore and pursue a new career in the tech industry,
+          where I can exhibit my new knowledge and my teamwork, brainstorming
+          and problem-solving skills. With the experiences from my previous jobs
+          as cabin crew and caregiver where I have exhibited a high level of
+          compassion, empathy, attention to detail and exceedance of targets to
+          be an added advantage to my new career as a web developer.
         </p>
 
         <div className="my-8">
@@ -54,12 +55,20 @@ const Hero = () => {
             Download cv
           </a>
           <a
+            href={Contact}
+            className="px-6 py-3 w-full rounded-xl
+                  border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
+                  text-white hover:border-none"
+          >
+            Contact Me
+          </a>
+          <a
             href="https://linkedin.com/in/osinachi-ogwua-03794020a/"
             className="px-6 py-3 w-full rounded-xl
                   border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
                   text-white hover:border-none"
           >
-            Contact
+            Linkedin
           </a>
         </div>
       </div>

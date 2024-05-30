@@ -9,8 +9,8 @@ const About = () => {
           <div className="my-auto mx-6">
             <h2 className="text-4xl font-bold mb-4 primary-color">About Me</h2>
             <p className="text-base lg:text-lg">
-              My journery as a web developer. As a former cabin crew and
-              caregiver turned web developer, specializing in front-end and
+              My journey as a web developer. As a former cabin crew and
+              care-giver turned web developer, specializing in front-end and
               back-end web development with proficiency in HTML, CSS,
               Javascript, React, Node.js and Express, successfully built three
               responsive apps from scratch including my portfolio website which
