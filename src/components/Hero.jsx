@@ -40,7 +40,7 @@ const Hero = () => {
           and problem-solving skills. With the experiences from my previous jobs
           as cabin crew and caregiver where I have exhibited a high level of
           compassion, empathy, attention to detail and exceedance of targets to
-          be an added advantage to my new career as a web developer
+          be an added advantage to my new career as a web developer.
         </p>
 
         <div className="my-8">
