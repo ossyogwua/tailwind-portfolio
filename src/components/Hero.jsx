@@ -55,17 +55,15 @@ const Hero = () => {
           </a>
           <a
             href="#contact"
-            className="px-6 py-3 w-full rounded-xl
-                  border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
-                  text-white hover:border-none"
+            className="px-6 py-3 w-full rounded-xl mr-4
+            bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
             Contact
           </a>
           <a
             href="https://linkedin.com/in/osinachi-ogwua-03794020a/"
-            className="px-6 py-3 w-full rounded-xl
-                  border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
-                  text-white hover:border-none"
+            className="px-6 py-3 w-full rounded-xl mr-4
+            bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
             Linkedin
           </a>
