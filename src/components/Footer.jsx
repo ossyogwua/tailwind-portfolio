@@ -37,7 +37,7 @@ const Footer = () => {
         </a>
       </p>
       <p className="text-gray-600">
-        <a href="https://linkedin.com/in/osinachi-ogwua-03794020a/">
+        <a href="https://linkedin.com/in/osinachiogwua/">
           <img src={Linkedin} layout="fill" objectfit="cover" alt="" />
         </a>
       </p>

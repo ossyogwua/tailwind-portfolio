@@ -61,7 +61,7 @@ const Hero = () => {
             Contact
           </a>
           <a
-            href="https://linkedin.com/in/osinachi-ogwua-03794020a/"
+            href="https://www.linkedin.com/in/osinachiogwua/"
             className="px-6 py-3 w-full rounded-xl mr-4
             bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
