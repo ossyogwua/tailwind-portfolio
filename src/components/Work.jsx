@@ -26,9 +26,9 @@ const Work = () => {
               Movie-API
             </span>
             <div className="pt-8 text-center">
-              <a href="https://myflix.922o.onrender.com">
+              <a href="https://myflix-922o.onrender.com/documentation.html">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                  Live
+                  API Docs
                 </button>
               </a>
             </div>
@@ -46,7 +46,7 @@ const Work = () => {
               MyFlix-Client
             </span>
             <div className="pt-8 text-center">
-              <a href="https://ossyogwua.github.io/myFlix-client/">
+              <a href="https://radiant-sorbet-24d69d.netlify.app/login">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                   Live
                 </button>
